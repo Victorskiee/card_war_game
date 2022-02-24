@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Wikuś\Desktop\Gra_karciana-wojna\</FILEPATH>
+      <FILENAME>Gra_karciana-wojna.cpp</FILENAME>
+      <LINE>89</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>Typ wyliczeniowy „stan_gry_t” nie ma zakresu. Preferowany jest element „enum class” zamiast „enum” (enum.3).</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>87</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

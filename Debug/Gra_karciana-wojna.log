@@ -1,0 +1,3 @@
+﻿  Gra_karciana-wojna.cpp
+C:\Users\Wikuś\Desktop\studia\Gra_karciana-wojna\Gra_karciana-wojna.cpp(108,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Gra_karciana-wojna.vcxproj -> C:\Users\Wikuś\Desktop\studia\Gra_karciana-wojna\Debug\Gra_karciana-wojna.exe
